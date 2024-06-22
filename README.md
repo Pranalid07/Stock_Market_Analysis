@@ -5,4 +5,6 @@ Key KPIs included trading volume, stock volatility, dividend yields, P/E ratios,
 
 Used Excel, Power BI, Tableau, and SQL for data processing and visualization. Enhanced investment strategies through insights from technical indicators like MACD and RSI.
 
+Use power point presentation to expalain all the insights and journey of this project.
+
 *I have provided dataset and dashboards.*
